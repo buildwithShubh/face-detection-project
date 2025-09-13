@@ -1,6 +1,21 @@
-# Face Detection Project
-A simple face detection project using OpenCV and Mediapipe.
+<img width="631" height="501" alt="Screenshot 2025-09-13 221144" src="https://github.com/user-attachments/assets/90476577-4973-4eca-aef1-787584d34664" />face-detection-project/
+├── face_detection.py
+├── requirements.txt
+├── README.md
+└── images/
+    └── demo.png
 
-## How to Run
-1. Clone the repository
-2. Install dependencies:
+    # Face Detection Project
+
+This project detects faces in real-time using OpenCV and Mediapipe.
+
+## Demo
+Here is a preview of the face detection in action:
+
+![Face Detection Demo]
+ 
+
+
+
+
+
